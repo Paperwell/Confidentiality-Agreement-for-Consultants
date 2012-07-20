@@ -79,6 +79,7 @@ As a condition of my becoming retained (or my consulting relationship being cont
 *[Signature Page Follows]*
 
 The parties have executed this Agreement on the respective dates set forth below, to be effective as of the Effective Date first above written.
+
 **THE COMPANY:** 
 
 [COMPANY NAME] 
@@ -95,7 +96,8 @@ Fax:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Date:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-CONSULTANT:
+**CONSULTANT:**
+
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (PRINT NAME) 
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (Signature)
@@ -109,11 +111,7 @@ Date:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
  
 **EXHIBIT A**
 
-**LIST OF PRIOR INVENTIONS
-
-AND ORIGINAL WORKS OF AUTHORSHIP
-
-EXCLUDED UNDER SECTION 4(a)**
+**LIST OF PRIOR INVENTIONS AND ORIGINAL WORKS OF AUTHORSHIP EXCLUDED UNDER SECTION 4(a)**
 
 Title: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
@@ -166,7 +164,7 @@ Further, I agree that for twelve (12) months from the date of this Certification
 
 Date:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-CONSULTANT:
+**CONSULTANT:**
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (Print Consultant’s Name)
 
